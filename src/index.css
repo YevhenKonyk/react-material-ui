@@ -32,7 +32,7 @@ ul {
   list-style: none;
 }
 
-button {
+/* button {
   cursor: pointer;
   font-family: inherit;
 }
@@ -52,8 +52,6 @@ section {
   margin: 0 auto;
 }
 
-.main {
-}
+.main {}
 
-.footer {
-}
+.footer {} */
